@@ -2,6 +2,10 @@
 
 This repository contains the core data and SQL scripts related to the operation of an animal shelter.
 
+The Project is made by Rahul Purohit, Kashif Khan, and Umar Khan, Students of NMIMS University
+
+Below is the description of the project files
+
 ## Data Files (CSV)
 
 * **Admin.csv:** Contains administrative user data including usernames, passwords, and names.
@@ -9,9 +13,9 @@ This repository contains the core data and SQL scripts related to the operation 
 * **ContactusMessage.csv:** Records messages and inquiries sent through the "Contact Us" form on the shelter's website.
 * **History.csv:** Tracks the history of adoption requests, including the request ID, usernames, animal details, dates, and adoption status.
 * **User.csv:** Contains general user data (username, name, email, etc.).
-* **Vet_Record.csv:** Stores veterinary records for animals, including dates, vet names, and procedures.
+* **Vet_Record.csv:** Stores animal veterinary records, including dates, vet names, and procedures.
 * **Volunteer.csv:**  Contains volunteer profiles (name, contact information, availability).
-* **Donation.csv:** Records donations made to the shelter, including dates, amounts, and donor information (if provided).
+* **Donation.csv:** Records donations to the shelter, including dates, amounts, and donor information (if provided).
 * **Request.csv:** Contains adoption requests, including details about the animal requested and the user's survey answers.
 
 ## SQL Files
